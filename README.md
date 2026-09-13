@@ -20,13 +20,7 @@
 
 ---
 
-## Demo Video
 
-> Add your Streamlit application demo video below
-
-[![Watch Demo Video](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](PASTE_VIDEO_LINK_HERE)
-
----
 
 # Project Overview
 
